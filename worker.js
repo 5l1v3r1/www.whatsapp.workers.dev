@@ -96,7 +96,7 @@ async function handleRequest(event) {
 				<div class="form-group">
 					<button type="submit" class="button">Send</button>
 				</div>
-				<p>Powered By <a href="//www.hashhackers.com" target="_blank">Bhadoo Industries</a><br><br>
+				<p>This Project is <a href="https://github.com/ParveenBhadooOfficial/www.whatsapp.workers.dev/" target="_blank">Open Source</a><br><br>
 			</form>
 			
 		</div>
@@ -277,7 +277,7 @@ function checkNeverCacheList(url) {
 				<div class="form-group">
 					<button type="submit" class="button">Send</button>
 				</div>
-				<p>Powered By <a href="//www.hashhackers.com" target="_blank">Bhadoo Industries</a><br><br>
+				<p>This Project is <a href="https://github.com/ParveenBhadooOfficial/www.whatsapp.workers.dev/" target="_blank">Open Source</a><br><br>
 			</form>
 			
 		</div>
