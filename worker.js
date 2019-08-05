@@ -78,7 +78,6 @@ async function handleRequest(event) {
 	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.9/icons/favicon-16x16.png">
 	<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.9/icons/safari-pinned-tab.svg" color="#5bbad5">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.1/css/wa.hashhackers.com_style.css" integrity="sha256-m/6hrVOX0ziTp9u/2U9/59XQr5K1MnSj1kxFw+GpgiU=" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.1/css/wa.hashhackers.com_ad.css" integrity="sha256-1fk6A5FZOEQVWYpeMBiDoi4Ak9SOGlaC3ypZFer6XQk=" crossorigin="anonymous">
 </head>
 <body style="background-image: url('https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.12/images/bg-01.jpg');">
 	<div class="container text-center">
@@ -259,7 +258,6 @@ function checkNeverCacheList(url) {
 	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.9/icons/favicon-16x16.png">
 	<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.9/icons/safari-pinned-tab.svg" color="#5bbad5">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.1/css/wa.hashhackers.com_style.css" integrity="sha256-m/6hrVOX0ziTp9u/2U9/59XQr5K1MnSj1kxFw+GpgiU=" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.1/css/wa.hashhackers.com_ad.css" integrity="sha256-1fk6A5FZOEQVWYpeMBiDoi4Ak9SOGlaC3ypZFer6XQk=" crossorigin="anonymous">
 </head>
 <body style="background-image: url('https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.12/images/bg-01.jpg');">
 	<div class="container text-center">
