@@ -6,10 +6,12 @@ The Website https://www.whatsapp.workers.dev is deployed on Cloudflare Workers F
 
 To Create a similar Cloudflare worker you need to edit some data and most of the resources are loaded from jsDelivr CDN so the links needs to updated if you are editing those.
 
-* Name on Line 9, 13, 44 and 225
-* URL on Line 12, 71, 118, 119 and 252
+* Name on Line 9, 13, 44 and 225.
+* URL on Line 12, 71, 118, 119 and 252.
 * All CDN Links needs to updated if you're editing the source css and js files.
 
-You can also create your own [Cloudflare Worker](https://cloudflareworkers.com) with Simple HTML using this [Gist](https://gist.github.com/ParveenBhadooOfficial/5173369e5a8f9810c67f83fbf7097aca)
+You can also create your own [Cloudflare Worker](https://cloudflareworkers.com) with Simple HTML using this [Gist](https://gist.github.com/ParveenBhadooOfficial/5173369e5a8f9810c67f83fbf7097aca).
 
 Note: WhatsApp is trademark of WhatsApp Inc. and this website is not affiliated to WhatsApp in any way.
+
+A [Parveen Bhadoo](https://www.parveenbhadoo.com) Creation
